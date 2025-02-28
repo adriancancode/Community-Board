@@ -22,14 +22,11 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='[http://i.imgur.com/link/to/your/gif/file.gif](https://imgur.com/a/VzUrgBN)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Walkthrough of project](assets/Codepath web 102 community board.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+Imgflip GIF maker
 
 ## Notes
 
