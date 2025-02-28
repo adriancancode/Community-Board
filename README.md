@@ -22,11 +22,13 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-![Walkthrough of project](assets/Codepath web 102 community board.gif)
+[![Video Walkthrough](https://img.youtube.com/vi/qkjrC-5fuqk/0.jpg)](https://www.youtube.com/watch?v=qkjrC-5fuqk)
+
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-Imgflip GIF maker
+Video created with ...  
+Screencastify screen recorder
+Youtube
 
 ## Notes
 
